@@ -1,0 +1,44 @@
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: antiquewhite;
+    color: red;
+    
+}
+
+.ho{
+    display: flex;
+    font-style: unset;
+    justify-content: center;
+    text-align: match-parent;
+}
+
+
+
+#hi{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+tr, td{
+    border: 1px solid black;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+#skdi{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse:collapse;
+    width:100%;
+}
